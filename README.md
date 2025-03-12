@@ -8,7 +8,7 @@ This patch for Guilty Gear Xrd Rev 2 allows the game to register controller and 
 
 ## How to use
 
-Download the latest release from the Releases section. Extract the .zip file, launch the patcher (on Linux launch the GGXrdBackgroundGamepad_linux instead) and select the game's GuiltyGearXrd.exe file. Usually it's located at `C:\Program Files (x86)\Steam\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\Binaries\Win32`.and on Linux it should at `/home/YOUR_USER/.steam/debian-installation/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/Binaries/Win32`.
+Download the latest release from the Releases section. Download the `GGXrdBackgroundGamepad.exe` file (if you're on Linux, download the `GGXrdBackgroundGamepad_linux` instead), launch the patcher and select the game's GuiltyGearXrd.exe file. Usually it's located at `C:\Program Files (x86)\Steam\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\Binaries\Win32`.and on Linux it should at `/home/YOUR_USER/.steam/debian-installation/steamapps/common/GUILTY GEAR Xrd -REVELATOR-/Binaries/Win32`.
 
 You only ever need to do this once.
 
